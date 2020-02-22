@@ -62,6 +62,7 @@ User Documentation
    workflows
    upgrading
    running-in-production
+   running-in-single-container
 
 .. _feature-docs:
 
